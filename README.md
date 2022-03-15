@@ -5,7 +5,9 @@
 
 
 
-- 🌱 I’m currently learning **how to build Human Resource Managment System with Java Spring and React.**
+- 🌱 I’m currently trying to improve my skills on **the 3D modelling on Unity and Blender .**
+- 
+- 🌱 In extra times I also continue to learn **how to build Human Resource Managment System with Java Spring and React.**
 
 - 📫 How to reach me **gaye3545@gmail.com**
 
