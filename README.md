@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gaye Yılmaz.</h1>
-<h3 align="center">A passionate Jr. Java Developer from Turkey.</h3>
+<h3 align="center">A passionate Jr. Developer from Turkey.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gayeyilmaz" alt="gayeyilmaz" /></a> </p>
 
 
 
 - 🌱 I’m currently trying to improve my skills on **the 3D modelling on Unity and Blender .**
-- 
 - 🌱 In extra times I also continue to learn **how to build Human Resource Managment System with Java Spring and React.**
 
 - 📫 How to reach me **gaye3545@gmail.com**
