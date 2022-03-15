@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **gaye3545@gmail.com**
 
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1LBWSFViz9jq976LjJH6IAAdyZZrp1lXA/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1hkgRNoOptEHGunN0pohW9QQnix3CreEa/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
